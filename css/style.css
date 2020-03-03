@@ -1,5 +1,9 @@
 .carousel-inner img {
     height: 65%;
     width: 45%;
-    margin-top: .1rem;
-     margin-bottom: .1rem;
+}
+
+.jumbotron {
+    padding: 1rem;
+    border-radius: 0;
+  }
